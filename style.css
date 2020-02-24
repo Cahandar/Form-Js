@@ -1,0 +1,21 @@
+#main{
+    display: flex;
+    margin: auto;
+}
+form{
+    margin: auto;
+    padding-top: 100px;
+}
+form div{
+    width: 600px;
+}
+#exampleInputEmail1{
+    width: 500px;
+}
+#exampleInputPassword1{
+    width: 500px;
+}
+#iki i{
+    margin-left: 20px;
+     cursor: pointer;
+}
